@@ -2,15 +2,18 @@
 
 C0deの部内規約(部則)です。
 
-## 環境構築の方法
-- TeX Liveの最新版をインストール (Windows)
-- WSL: `sudo apt install texlive-full`
+## 使い方
 
-## コンパイルの方法
-1. `latexmk TermsOfC0de.tex`を実行
+### 環境構築の方法
+- TeX Liveの最新版をインストール
+  - `sudo apt install texlive-full` もしくは `sudo apt install texlive-lang-japanese` を実行する。(Linux)
 
-## フォーマットの方法
-1. `latexindent -w -l TermsOfC0de.tex`を実行
+### コンパイルの方法
+- `latexmk TermsOfC0de.tex`を実行する。
+
+### フォーマットの方法
+- `latexindent -w -l TermsOfC0de.tex`を実行する。
 
 ## ライセンス
 - [CC BY 4.0](LICENSE)
+
