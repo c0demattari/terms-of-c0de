@@ -1,6 +1,6 @@
 # terms-of-c0de
 
-C0deの部内規約(部則)です。
+[C0deの部内規約(部則)](https://github.com/c0demattari/terms-of-c0de/blob/main/TermsOfC0de.pdf)です。
 
 ## 使い方
 
